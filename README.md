@@ -1,6 +1,6 @@
 # AkabeiMonitorHook
 Unofficial modifications of AkabeiMonitor<br>
-[AkabeiMonitor]（x64）を機能改善するDLLです。
+[AkabeiMonitor]（x64）を機能改善する非公式DLLです。
 
 ## 改善点
 - 以下のネットワークデバイスが検出されます
